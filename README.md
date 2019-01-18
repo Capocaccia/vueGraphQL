@@ -1,4 +1,5 @@
 # vuegraphql
+# this repo is just for my own graphql / vue education
 
 ## Project setup
 ```
